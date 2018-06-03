@@ -1,1 +1,2 @@
 # dataManagement
+Using Bootstrap, HTML, CSS, JS, jQuery and Google Firebase for persistence of the table, this application could be used to keep track of Employees Names, Roles, Start Dates, Months Worked, Monthly Rate and Total Paid. You can add as many employees as youd like.
